@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Royal</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="action_settings">Settings</string>
+    <string name="login">Submit</string>
+    <string name="login_tittle">Loyalty</string>
+</resources>
